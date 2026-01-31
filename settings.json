@@ -1,0 +1,10 @@
+{
+  "launch": {
+    "configurations": []
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "python.testing.unittestEnabled": true,
+  "python.testing.unittestArgs": ["-v", "-s", "./tests", "-p", "test_*.py"],
+  "python.testing.autoTestDiscoverOnSaveEnabled": true,
+  "files.autoSave": "afterDelay"
+}
